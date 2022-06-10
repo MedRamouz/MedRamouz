@@ -32,7 +32,7 @@
 
   <summary> GitHub Stats</summary>
 
-  <img align="left" alt="El Ramouz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedT3ck&theme=dark&show_icons=true" />
+  <img align="left" alt="El Ramouz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedRamouz&theme=dark&show_icons=true" />
 
 [website]: #
 [course]: #

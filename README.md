@@ -27,13 +27,12 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/dw54xyhjdvebwad684nyb8epw)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dw54xyhjdvebwad684nyb8epw&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
   <summary> GitHub Stats</summary>
 
-  <img align="left" alt="El Ramouz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedRamouz&theme=dark&show_icons=true" />
+  <img align="left" alt="El Ramouz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedT3ck&theme=dark&show_icons=true" />
 
 [website]: #
 [course]: #
